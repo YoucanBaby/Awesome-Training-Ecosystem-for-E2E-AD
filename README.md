@@ -37,7 +37,7 @@ Feel free to explore the papers, contribute, and stay updated with the latest tr
     - [Supervision and Alignment of Labels](#Supervision-and-Alignment-of-Labels)
     - [Data Valuation and Governance](#Data-Valuation-and-Governance)
   - [Strategy Layer](#strategy-layer)
-    - [Imitation Learning](#Imitation Learning)
+    - [Imitation Learning](#Imitation-Learning)
     - [Reinforcement Learning](#Reinforcement-Learning)
     - [Diffusion Policy](#Diffusion-Policy)
     - [Multimodal Large Language Model](#Multimodal-Large-Language-Model)
